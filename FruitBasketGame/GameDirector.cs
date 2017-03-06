@@ -16,6 +16,7 @@ namespace FruitBasketGame
 
         public ManualResetEvent FinishGame { get { return _referee.FinishGame; } }
 
+        //another change
         //type a comment just to see changes
         public GameDirector(Rules rules)
         {
